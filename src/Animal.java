@@ -14,7 +14,7 @@ public class Animal {
     public Animal(){
 
     }
-
+//comentario de modificacion
     public Animal(int energia, int fatiga, int sueño, int higiene, int peso, String mascota) {
         this.energia = energia;
         this.fatiga = fatiga;
